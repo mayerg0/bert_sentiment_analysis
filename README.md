@@ -1,4 +1,4 @@
-# bert_sentiment_analysis
+# Sentiment Analysis Using BERT
 Sentiment Analysis With Deep Learning using BERT
 
 ## Background

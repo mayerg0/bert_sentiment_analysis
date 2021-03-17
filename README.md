@@ -10,7 +10,7 @@ For more information, the original paper can be found [here](https://arxiv.org/a
 
 We will use the SMILE Twitter dataset and the huggingface BERT transformer to finetune a pretrained BERT model
 
-Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jensen, Eric (2016): SMILE Twitter Emotion dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.3187909.v2
+Dataset: Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jensen, Eric (2016): SMILE Twitter Emotion dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.3187909.v2
 
 
 ## Results
